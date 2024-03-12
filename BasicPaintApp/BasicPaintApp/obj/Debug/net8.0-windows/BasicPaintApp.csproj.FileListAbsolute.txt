@@ -1,0 +1,17 @@
+C:\Users\wqchi\OneDrive\Documents\1_BYU-I\BYU-I Winter 24\1_CSE 310-Applied Programming\W09\BasicPaintApp\BasicPaintApp\BasicPaintApp\bin\Debug\net8.0-windows\BasicPaintApp.exe
+C:\Users\wqchi\OneDrive\Documents\1_BYU-I\BYU-I Winter 24\1_CSE 310-Applied Programming\W09\BasicPaintApp\BasicPaintApp\BasicPaintApp\bin\Debug\net8.0-windows\BasicPaintApp.deps.json
+C:\Users\wqchi\OneDrive\Documents\1_BYU-I\BYU-I Winter 24\1_CSE 310-Applied Programming\W09\BasicPaintApp\BasicPaintApp\BasicPaintApp\bin\Debug\net8.0-windows\BasicPaintApp.runtimeconfig.json
+C:\Users\wqchi\OneDrive\Documents\1_BYU-I\BYU-I Winter 24\1_CSE 310-Applied Programming\W09\BasicPaintApp\BasicPaintApp\BasicPaintApp\bin\Debug\net8.0-windows\BasicPaintApp.dll
+C:\Users\wqchi\OneDrive\Documents\1_BYU-I\BYU-I Winter 24\1_CSE 310-Applied Programming\W09\BasicPaintApp\BasicPaintApp\BasicPaintApp\bin\Debug\net8.0-windows\BasicPaintApp.pdb
+C:\Users\wqchi\OneDrive\Documents\1_BYU-I\BYU-I Winter 24\1_CSE 310-Applied Programming\W09\BasicPaintApp\BasicPaintApp\BasicPaintApp\obj\Debug\net8.0-windows\BasicPaintApp.Form1.resources
+C:\Users\wqchi\OneDrive\Documents\1_BYU-I\BYU-I Winter 24\1_CSE 310-Applied Programming\W09\BasicPaintApp\BasicPaintApp\BasicPaintApp\obj\Debug\net8.0-windows\BasicPaintApp.Properties.Resources.resources
+C:\Users\wqchi\OneDrive\Documents\1_BYU-I\BYU-I Winter 24\1_CSE 310-Applied Programming\W09\BasicPaintApp\BasicPaintApp\BasicPaintApp\obj\Debug\net8.0-windows\BasicPaintApp.csproj.GenerateResource.cache
+C:\Users\wqchi\OneDrive\Documents\1_BYU-I\BYU-I Winter 24\1_CSE 310-Applied Programming\W09\BasicPaintApp\BasicPaintApp\BasicPaintApp\obj\Debug\net8.0-windows\BasicPaintApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wqchi\OneDrive\Documents\1_BYU-I\BYU-I Winter 24\1_CSE 310-Applied Programming\W09\BasicPaintApp\BasicPaintApp\BasicPaintApp\obj\Debug\net8.0-windows\BasicPaintApp.AssemblyInfoInputs.cache
+C:\Users\wqchi\OneDrive\Documents\1_BYU-I\BYU-I Winter 24\1_CSE 310-Applied Programming\W09\BasicPaintApp\BasicPaintApp\BasicPaintApp\obj\Debug\net8.0-windows\BasicPaintApp.AssemblyInfo.cs
+C:\Users\wqchi\OneDrive\Documents\1_BYU-I\BYU-I Winter 24\1_CSE 310-Applied Programming\W09\BasicPaintApp\BasicPaintApp\BasicPaintApp\obj\Debug\net8.0-windows\BasicPaintApp.csproj.CoreCompileInputs.cache
+C:\Users\wqchi\OneDrive\Documents\1_BYU-I\BYU-I Winter 24\1_CSE 310-Applied Programming\W09\BasicPaintApp\BasicPaintApp\BasicPaintApp\obj\Debug\net8.0-windows\BasicPaintApp.dll
+C:\Users\wqchi\OneDrive\Documents\1_BYU-I\BYU-I Winter 24\1_CSE 310-Applied Programming\W09\BasicPaintApp\BasicPaintApp\BasicPaintApp\obj\Debug\net8.0-windows\refint\BasicPaintApp.dll
+C:\Users\wqchi\OneDrive\Documents\1_BYU-I\BYU-I Winter 24\1_CSE 310-Applied Programming\W09\BasicPaintApp\BasicPaintApp\BasicPaintApp\obj\Debug\net8.0-windows\BasicPaintApp.pdb
+C:\Users\wqchi\OneDrive\Documents\1_BYU-I\BYU-I Winter 24\1_CSE 310-Applied Programming\W09\BasicPaintApp\BasicPaintApp\BasicPaintApp\obj\Debug\net8.0-windows\BasicPaintApp.genruntimeconfig.cache
+C:\Users\wqchi\OneDrive\Documents\1_BYU-I\BYU-I Winter 24\1_CSE 310-Applied Programming\W09\BasicPaintApp\BasicPaintApp\BasicPaintApp\obj\Debug\net8.0-windows\ref\BasicPaintApp.dll
